@@ -3,7 +3,7 @@
 body,p,h1,h2,h3,ul,li{margin: 0;padding:0;}
 .banner { background: url(../images/banner.jpg) no-repeat center; height: 290px; margin: 10px auto; width: 100%; font-size: 16px; font-family: "Microsoft Yahei", Arial, Helvetica, sans-serif; }
 .texts { line-height: 36px; padding: 90px 0 0 40px; text-shadow: 1px 1px rgba(255,255,255,0.3); }
-.texts p { -webkit-transition: all 1s; -moz-transition: all 1s; -o-transition: all 1s; transition: all 1s; -webkit-transform: translate(60px); -moz-transform: translate(60px); -o-transform: translate(60px); -ms-transform: translate(60px); transform: translate(60px);font-size:20px;color:#cfcfcf; cursor: pointer;}
+.texts p { -webkit-transition: all 1s; -moz-transition: all 1s; -o-transition: all 1s; transition: all 1s; -webkit-transform: translate(60px); -moz-transform: translate(60px); -o-transform: translate(60px); -ms-transform: translate(60px); transform: translate(60px);font-size:20px;color:#16a287; cursor: pointer;}
 .texts p:hover { padding-left: 20px }
 .texts p:nth-child(1) { -webkit-animation: animations 1s linear 1s backwards; -moz-animation: animations 1s linear 1s backwards; -o-animation: animations 1s linear 1s backwards; -ms-animation: animations 1s linear 1s backwards; animation: animations 1s linear 1s backwards; }
 .texts p:nth-child(2) { -webkit-animation: animations 1s linear 1s backwards; -moz-animation: animations 1s linear 1s backwards; -o-animation: animations 1s linear 1s backwards; -ms-animation: animations 1s linear 1s backwards; animation: animations 1s linear 1s backwards; }
