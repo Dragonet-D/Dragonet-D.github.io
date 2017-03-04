@@ -11,7 +11,12 @@ li{list-style:none;}
 .blank { height: 5px; overflow: hidden; width: 100%; margin: auto; clear: both }
 /*header*/
 .ibody {width: 1000px; margin:0 auto;  }
-header { position: relative;background:url(../img/header-bg.png) no-repeat right center; height:134px;}
+header { position: relative; height:134px;}
+header img{position: absolute;top:0;right:0;animation: run 4s ease 1s;}
+@keyframes run{
+    from{opacity:0;filter:alpha(opacity=0);}
+    to{transform: translateX(-800px);opacity: 1;filter: alpha(opacity=100);}
+}
 header h1 { padding: 15px 0 ; font:30px/40px "微软雅黑";color: #8e8d8d;width:600px;}
 header h2 { color: #8e8d8d; width:600px;padding:20px 0;}
 /*nav*/
