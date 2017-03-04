@@ -1,7 +1,7 @@
 @charset "utf-8";
 /*public css*/
 body, h1, h2, h3, h4, h5, h6,p, blockquote, dl, dt, dd, ul, ol, li, pre,figure{margin:0;padding:0;}
-body{	user-select:none;font: 12px "微软雅黑", Arial, Helvetica, sans-serif; background: #f5f5f5;}
+body{font: 12px "微软雅黑", Arial, Helvetica, sans-serif; background: #f5f5f5;}
 a {text-decoration:none;} 
 img { border: none; display: block; } 
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: normal; } 
@@ -12,16 +12,15 @@ li{list-style:none;}
 /*header*/
 .ibody {width: 1000px; margin:0 auto;  }
 header { position: relative;background:url(../img/header-bg.png) no-repeat right center; height:134px;}
-header h1 { padding: 15px 0 0 80px; font:30px/40px "微软雅黑";color: #8e8d8d;width:600px;}
-header h2 { margin-left:80px; color: #8e8d8d; width:600px;padding:20px 0;}
+header h1 { padding: 15px 0 ; font:30px/40px "微软雅黑";color: #8e8d8d;width:600px;}
+header h2 { color: #8e8d8d; width:600px;padding:20px 0;}
 /*nav*/
 nav li{float:left;}
 nav a {font:18px/48px "微软雅黑"; color: #FFF; padding: 0 20px;transition: all 1s; background: rgba(0,0,0,0.5);display:block;} 
 nav a:hover { background: #e41635; }
-nav li:first-child a{background:red;}
+nav li:first-child a{background:red;} 
 nav li:last-child {background:rgba(0,0,0,0);margin-left:60px;color:#000;height:48px;font:18px/48px "微软雅黑";}
 
- 
 /*banner*/
 #banner {width:100%;height:344px;position:relative;overflow:hidden;z-index:2;margin-top:10px;}
 #banner ul {width:970px;height:344px;position:absolute;left:0;top:0;}
@@ -58,11 +57,11 @@ nav li:last-child {background:rgba(0,0,0,0);margin-left:60px;color:#000;height:4
 #banner a.btn .ico1{filter:alpha(opacity=0);opacity:0;z-index:2;}
 #banner a.btn .txt{width:106px;filter:alpha(opacity=0);opacity:0;}
 #banner a.prev .ico{left:0;top:30px;background:rgba(0,0,0,0.2);border-radius: 50%;}
-#banner a.prev .ico1{left:0;top:30px;background:darkred;border-radius: 50%;font-size:30px;}
-#banner a.prev .txt{left:68px;top:30px;background:darkred;text-align: right;}
+#banner a.prev .ico1{left:0;top:30px;background:rgba(0,0,0,0.4);border-radius: 50%;font-size:30px;}
+#banner a.prev .txt{left:68px;top:30px;background:rgba(0,0,0,0.4);text-align: right;}
 #banner a.next .ico{right:0;top:30px;background:rgba(0,0,0,0.2);border-radius: 50%;}
-#banner a.next .ico1{right:0;top:30px;background:darkred;border-radius: 50%;font-size: 30px;}
-#banner a.next .txt{right:69px;top:30px;background:darkred;text-align: left;}
+#banner a.next .ico1{right:0;top:30px;background:rgba(0,0,0,0.4);border-radius: 50%;font-size: 30px;}
+#banner a.next .txt{right:69px;top:30px;background:rgba(0,0,0,0.4);text-align: left;}
 
 
 article { width: 73%; float: left; margin-top:5px;  }
