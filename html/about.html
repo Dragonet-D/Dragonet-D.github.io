@@ -3,13 +3,14 @@
 <head>
 <meta charset="utf-8">
 <title>Hello Dragonet-D</title>
-<meta name="keywords" content="个人博客模板,博客模板,响应式" />
-<meta name="description" content="如影随形主题的个人博客模板，神秘、俏皮。" />
+<meta name="viewport" content="width=device-width,user-scalable=no"/>
 <link rel="shortcut icon" href="../img/index.ico" />
 <link href="../css/base.css" rel="stylesheet">
-<link href="../css/about.css" rel="stylesheet">
+<link href="../css/vue.css" rel="stylesheet">
 <link href="../css/media.css" rel="stylesheet">
+<script type="text/javascript" src="../js/vue.js"></script> 
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
+<script type="text/javascript" src="../js/jQuery%20v3.1.1%20.js"></script>
 <!--[if lt IE 9]>
 <script src="js/modernizr.js"></script>
 <![endif]-->
@@ -19,10 +20,11 @@
   <header>
     <h1>精致细腻。平静淡薄。</h1>
     <h2>Dragonet-D</h2>
+    <img src="../img/header-bg.png">
   </header> 
     <nav id="topnav" class="clear">
     	<li><a href="../index.html">Protal</a></li>
-    	<li><a href="about.html">Vue</a></li>
+    	<li><a class="active" href="about.html">Vue</a></li>
     	<li><a href="newlist.html">React</a></li>
     	<li><a href="share.html">Angular</a></li>
     	<li><a href="new.html">jQuery</a></li>
@@ -30,39 +32,67 @@
     	<li><a href="https://github.com/Dragonet-D" target="_blank">My Github</a></li>
         <li>皮皮虾我们走</li>
     </nav>  
-  <article>
-    <h3 class="about_h">locatio：<a href="html/index.html">Protal</a>><a href="1/">About me</a></h3>
-    <div class="about">
-      <h2>Just about me</h2>
-      <ul>
-        <p>杨青，女，一个80后草根女站长！09年入行，从业已经有三四年。从搬砖一样的生活方式换成了现在有“单”而居的日子。当然这个单不是单身的单，跟我的职业相比，爱情脱单并不是问题！虽然极尽苛刻的征婚条件但也远不及客户千奇百怪的要求。告别了朝九晚五，躲过了风吹日晒，虽然不再有阶梯式的工资，但是偶尔可以给自己放放假，挽着老公，一起轻装旅行。</p>
-        <p> 人生就是一个得与失的过程，而我却是一个幸运者，得到的永远比失去的多。生活的压力迫使我放弃了轻松的前台接待，放弃了体面的编辑，换来虽有些蓬头垢面的工作，但是我仍然很享受那些熬得只剩下黑眼圈的日子，因为我在学习使用Photoshop、Flash、Dreamweaver、ASP、PHP、JSP...中激发了兴趣，然后越走越远....</p>
-        <p>在这条路上，我要感谢三个人，第一个是我从事编辑的老板，是他给了我充分学习研究div的时间，第二个人是我的老师，如果不是街上的一次偶遇，如果不是因为我正缺钱，我不会去强迫自己做不会的事情，但是金钱的诱惑实在是抵挡不了，于是我选择了“接招”，东拼西凑的把一个网站做好了，当时还堪称佳作的网站至今已尘归尘土归土了。第三个人，我总说他是我的伯乐，因为我当初应聘技术员的时候，我说我什么都不会，但是他却给了我机会，而我就牢牢的把握了那次机会，直到现在如果不是我主动把域名和空间转出来，我会一直霸占着公司资源，免费下去（可我就偏偏不是喜欢爱占便宜的人，总感觉欠了就得还）...</p>
-        <p> 还要特别感谢一个人，是我的老公。他是我的百科，我不会的，他会，最后我还是不会。博客能做到今天这样，一半都有他的功劳。他不仅仅支持我的事业作为我有力的经济后盾，还毫无怨言的包容我所有工作、生活当中有理无理的坏脾气，曾经我是多么有自己原则的一个人，但是遇到他，打破了我自己毕生坚持的原则，喜欢一句话“冥冥中该来则来，无处可逃”。 </p>
-      </ul>
-      <h2>About my blog</h2>
-      <ul class="blog_a">
-        <p>wechatNumber ：long392243079</p>
-      </ul>
+    <div class="about_h">location:<a href="../index.html">Protal</a> &gt;<a href="share.html">Vue</a></div>
+    <div id="about_vue">
+    	
+    	<h3>渐进式  JavaScript 框架</h3>
+    		<p>Vue.js（读音 /vjuː/, 类似于 view）是一个构建数据驱动的 web 界面的渐进式框架。Vue.js 的目标是通过尽可能简单的 API 实现响应的数据绑定和组合的视图组件。</p>
+    		<p>与其他重量级框架不同的是，Vue 采用自底向上增量开发的设计。Vue 的核心库只关注视图层，并且非常容易学习，非常容易与其它库或已有项目整合。另一方面，Vue 完全有能力驱动采用单文件组件和Vue生态系统支持的库开发的复杂单页应用。</p>
+    		<p>Vue.js 的目标是通过尽可能简单的 API 实现响应的数据绑定和组合的视图组件。</p>
+    		<p>Vue.js 自身不是一个全能框架——它只聚焦于视图层。因此它非常容易学习，非常容易与其它库或已有项目整合。另一方面，在与相关工具和支持库一起使用时，Vue.js 也能完美地驱动复杂的单页应用。</p>
+    		<h2><a href="http://cn.vuejs.org/" target="_blank">了解更多&gt;&gt;</a></h2>
     </div>
-  </article>
-  <aside>
-    <div class="avatar"><a href="about.html"><span>关于杨青</span></a></div>
-    <div class="topspaceinfo">
-      <h1>执子之手，与子偕老</h1>
-      <p>于千万人之中，我遇见了我所遇见的人....</p>
-    </div>
-    <div class="about_c">
-      <p>网名：小小小小的菠菜</p>
-      <p>职业：web前端工程师</p>
-      <p>籍贯：sichuan-ziyang</p>
-      <p>电话：18802233714</p>
-      <p>邮箱：Dragonet-D@163.com</p>
-    </div>
-  </aside>
-  <script src="js/silder.js"></script>
-  <div class="clear"></div>
-  <!-- 清除浮动 --> 
+   <div id="wrap"> 
+	    <div class="page-top">
+	        <div class="page-content">
+	            <h2>vue实例：任务计划列表</h2>
+	        </div>
+	    </div>
+	    <div class="main">
+	        <h3 class="big-title">添加任务：</h3>
+	        <input 
+	            placeholder="例如：吃饭睡觉打豆豆；    提示：+回车即可添加任务" 
+	            class="task-input" 
+	            type="text"
+	            v-model="todo"
+	            v-on:keyup.13="addTodo"
+	        />
+	        <ul class="task-count" v-show="list.length">
+	            <li>{{noCheckeLength}}个任务未完成</li>
+	            <li class="action">
+	                <a class="active" href="#all">所有任务</a>
+	                <a href="#unfinished">未完成的任务</a>
+	                <a href="#finished">完成的任务</a>
+	            </li>
+	        </ul>
+	        <h3 class="big-title">任务列表：</h3>
+	        <div class="tasks">
+	
+	            <span class="no-task-tip" v-show="!list.length">还没有添加任何任务</span>
+	            <ul class="todo-list">
+	                <li class="todo" :class="{completed: item.isChecked,editing: item === edtorTodos}" v-for="item in filteredList" >
+	                    <div class="view">
+	                        <input class="toggle" type="checkbox" v-model="item.isChecked" />
+	                        <label @dblclick="edtorTodo(item)">{{ item.title }}</label>
+	                        <button class="destroy" @click="deleteTodo(item)"></button>
+	                    </div>
+	                    <input 
+	                        v-foucs="edtorTodos === item" 
+	                        class="edit" 
+	                        type="text" 
+	                        v-model = "item.title"
+	                        @blur="edtorTodoed(item)"
+	                        @keyup.13="edtorTodoed(item)"
+	                        @keyup.esc="cancelTodo(item)"
+	                    />
+	                </li>
+	            </ul>
+	        </div>
+	    </div>
+    </div> 
+
+   <script type="text/javascript" src="../js/header-animation.js"></script>
+   <script type="text/javascript" src="../js/app.js"></script>
 </div>
 </body>
 </html>

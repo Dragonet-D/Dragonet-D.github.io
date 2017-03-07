@@ -20,11 +20,12 @@ header img{position: absolute;top:0;right:0;animation: run 4s ease-in 1s;}
 header h1 { padding: 15px 0 ; font:30px/40px "微软雅黑";color: #8e8d8d;width:600px;}
 header h2 { color: #8e8d8d; width:600px;padding:20px 0;}
 /*nav*/
+nav{position: relative;}
 nav li{float:left;}
 nav a {font:18px/48px "微软雅黑"; color: #FFF; padding: 0 20px;transition: all 1s; background: rgba(0,0,0,0.5);display:block;} 
 nav a:hover { background: #e41635; }
-nav li:first-child a{background:red;} 
-nav li:last-child {background:rgba(0,0,0,0);margin-left:60px;color:#000;height:48px;font:18px/48px "微软雅黑";}
+nav .active{background:red;} 
+nav li:last-child {background:rgba(0,0,0,0);color:#000;height:48px;font:18px/48px "微软雅黑";position: absolute;right: 40px;top: 0;}
 
 /*banner*/
 #banner {width:100%;height:344px;position:relative;overflow:hidden;z-index:2;margin-top:10px;}
