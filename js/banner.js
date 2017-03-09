@@ -21,7 +21,6 @@ window.onload = function () {
 	var attr = [];
 	var oTimer = null;
 
-
 	for(var i=0; i<aLi.length; i++) {
 		var sPost = getElementStyle(aLi[i],"position");
 		var iLeft = parseInt(aLi[i].offsetLeft);
