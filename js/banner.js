@@ -1,7 +1,9 @@
-/**
- * Created by C罗童鞋 on 2016/3/3.
- */
 window.onload = function () {
+	     (function(){
+		    	var html = document.documentElement;
+		    	var hWidth = html.getBoundingClientRect().width;
+				html.style.fontSize = hWidth/15 + "px";
+		    })();
 	var oDiv = document.getElementById("banner");
 	var oUl = document.getElementById("pic_list");
 	var aLi = oUl.getElementsByTagName("li");
