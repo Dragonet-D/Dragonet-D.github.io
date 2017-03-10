@@ -17,8 +17,8 @@ header img{position: absolute;top:0;right:0;animation: run 4s ease-in 1s;}
     from{opacity:0;filter:alpha(opacity=0);}
     to{transform: translateX(-800px);opacity: 1;filter: alpha(opacity=100);}
 }
-header h1 { padding: 15px 0 ; font:30px/40px "微软雅黑";color: #8e8d8d;width:600px;}
-header h2 { color: #8e8d8d; width:600px;padding:20px 0;}
+header h1 { padding: 15px 0 ; font:30px/40px "微软雅黑";color: #8e8d8d;width:100%;}
+header h2 { color: #8e8d8d; width:100%;padding:20px 0;}
 /*nav*/
 nav{position: relative;}
 nav li{float:left;}
