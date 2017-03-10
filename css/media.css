@@ -2,7 +2,7 @@
 /* media css Document */
 @media screen and (max-width: 1000px) {
   .ibody {
-    width: 90%;
+    width: 100%;
     margin: auto;
     box-shadow: 0rem 0.04rem 0.1rem #666666;
   }
@@ -50,7 +50,7 @@
 }
 @media screen and (max-width: 700px) {
   .ibody {
-    width: 90%;
+    width: 100%;
     margin: auto;
     box-shadow: 0rem 0.04rem 0.1rem #666666;
   }
@@ -111,7 +111,7 @@
 }
 @media screen and (max-width: 600px) {
   .ibody {
-    width: 90%;
+    width: 100%;
     margin: auto;
     box-shadow: 0rem 0.04rem 0.1rem #666666;
     -webkit-select: none ;
