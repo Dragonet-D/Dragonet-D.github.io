@@ -1,6 +1,7 @@
 @charset "utf-8";
 /* media css Document */
 @media screen and (max-width: 1000px) {
+  header img{display: none!important;}
   .ibody { width: 100%;   margin: auto;  box-shadow: 0rem 0.04rem 0.1rem #666666;  }
   article {  float: none;  width: 100%;  }
   article {  background: #ffffff;  }
@@ -23,6 +24,7 @@
   }
 }
 @media screen and (max-width: 700px) {
+  header img{display: none!important;}
   .ibody {
     width: 100%;
     margin: auto;
@@ -84,6 +86,7 @@
   }
 }
 @media screen and (max-width: 600px) {
+  header img{display: none!important;}
   .ibody {
     width: 100%;
     margin: auto;
@@ -98,7 +101,7 @@
     background: #ffffff;
   }
   header h1 {
-    font: 30/50rem/40/50rem "微软雅黑";
+    font: 0.6rem/0.4rem "微软雅黑";
     color: #8e8d8d;
     width: 12rem;
   }
