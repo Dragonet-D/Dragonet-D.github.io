@@ -10,6 +10,7 @@
   aside,  .dateview {  display: none;  }
   nav { padding-left: 0;   text-align: center; }
   nav a {  padding: 0 0.1rem;  }
+  nav a:hover { background: rgba(0,0,0,0.5); }
   .banner {  background-size: auto;   height: 2.6rem;  font-size: 0.24rem;  font-family: "Microsoft Yahei", Arial, Helvetica, sans-serif; }
   .texts { line-height: 0.72rem; padding: 0.4rem 0 0 0.2rem;   text-shadow: 0.02rem 0.02rem rgba(255, 255, 255, 0.3);  }
   .blogs::after { background: none; }
@@ -27,6 +28,7 @@
   aside, .dateview { display: none; }
   nav { height: auto; line-height: 0.8rem;  text-align: center; background: #FFF;  padding-left: 0rem; }
   nav a { display: block;  background: #323232;  clear: both;  margin-bottom: 0.04rem; }
+  nav a:hover { background: rgba(0,0,0,0.5); }
   .logo { position: static;  margin: 0 auto 0.2rem; }
   .banner {  background-size: auto;  height: 2.6rem;  font-size: 0.24rem;  font-family: "Microsoft Yahei", Arial, Helvetica, sans-serif; }
   .texts {  line-height: 0.72rem;  padding: 0.4rem 0 0 0.2rem; text-shadow: 0.02rem 0.02rem rgba(255, 255, 255, 0.3); }
@@ -49,6 +51,7 @@
   nav li {  clear: both;  width: 100%;  }
   nav li:last-child { display: none;  }
   nav a { display: block;  background: #323232; clear: both;  margin-bottom: 0.04rem; }
+  nav a:hover { background: rgba(0,0,0,0.5); }
   #banner {  display: none; }
   .texts {  line-height: 0.72rem; padding: 0.4rem 0 0 0.2rem; text-shadow: 0.02rem 0.02rem rgba(255, 255, 255, 0.3); }
   .blogs::after, .newblog::after {  background: none; }
