@@ -1,6 +1,6 @@
 /*!
  * Vue.js v2.1.8
- * (c) 2016-2016 Evan You
+ * (c) 2014-2016 Evan You
  * Released under the MIT License.
  */
 (function (global, factory) {
@@ -6142,8 +6142,7 @@ function shouldDecode (content, encoded) {
 
 // #3663
 // IE encodes newlines inside attribute values while other browsers don't
-var shouldDecodeNewlines = inBrowser ? shouldDecode('\n', '
-') : false;
+var shouldDecodeNewlines = inBrowser ? shouldDecode('\n', '&#10;') : false;
 
 /*  */
 
