@@ -6,11 +6,15 @@
 <link rel="shortcut icon" href="../img/index.ico" />
 <link href="../css/base.css" rel="stylesheet">
 <link href="../css/style.css" rel="stylesheet">
-<link href="../css/media.css" rel="stylesheet">
-<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
-<!--[if lt IE 9]>
-<script src="js/modernizr.js"></script>
-<![endif]-->
+<link href="../css/media.css" rel="stylesheet"> 
+<meta name="viewport" content="width=device-width,user-scalable=no"/> 
+		<script>
+		    (function(){
+		    	var html = document.documentElement;
+		    	var hWidth = html.getBoundingClientRect().width;
+				html.style.fontSize = hWidth/15 + "px";
+		    })()
+		</script> 
 </head>
 <body>
 <div class="ibody">
@@ -22,15 +26,15 @@
     <nav id="topnav" class="clear">
     	<li><a href="../index.html">Protal</a></li>
     	<li><a href="vue.html">Vue</a></li>
-    	<li><a class="active" href="newlist.html">React</a></li>
-    	<li><a href="share.html">Angular</a></li>
-    	<li><a href="new.html">jQuery</a></li>
+    	<li><a class="active" href="react.html">React</a></li>
+    	<li><a href="angular.html">Angular</a></li>
+    	<li><a href="jquery.html">jQuery</a></li>
     	<li><a href="javascript:;">Node</a></li>
     	<li><a href="https://github.com/Dragonet-D" target="_blank">My Github</a></li>
         <li>皮皮虾我们走</li>
     </nav> 
   <article>
-    <h2 class="about_h">您现在的位置是：<a href="/">首页</a>><a href="1/">慢生活</a></h2>
+    <h2 class="about_h">您现在的位置是：<a href="../index.html">首页</a>><a href="react.html">React</a></h2>
     <div class="bloglist">
       <div class="newblog">
         <ul>
