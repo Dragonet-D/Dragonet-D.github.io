@@ -10,7 +10,7 @@ h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: normal; }
 li{list-style:none;}
 .blank { height: 5px; overflow: hidden; width: 100%; margin: auto; clear: both }
 /*header*/
-.ibody {width: 1000px; margin:0 auto;  }
+.ibody {width: 1226px; margin:0 auto;  }
 header { position: relative; height:134px;}
 header img{position: absolute;top:0;right:0;animation: run 4s ease-in 1s;}
 @keyframes run{
@@ -28,7 +28,7 @@ nav .active{background:red;}
 nav li:last-child {background:rgba(0,0,0,0);color:#000;height:48px;font:18px/48px "微软雅黑";position: absolute;right: 40px;top: 0;}
 
 /*banner*/
-#banner {width:100%;height:344px;position:relative;overflow:hidden;z-index:2;margin-top:10px;}
+#banner {width:1000px;height:344px;position:relative;overflow:hidden;z-index:2;margin: 10px auto 0;}
 #banner ul {width:970px;height:344px;position:absolute;left:0;top:0;}
 #banner ul li {position:absolute;}
 #banner ul a {border:4px #FFFFFF solid;position:absolute;left:0;top:0;z-index:1;background:url(#);}
