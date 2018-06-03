@@ -2,43 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee70c72a-9ef6-4001-b14a-71cd768b86fe" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.c17080f1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.c17080f1.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.f41de6b2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.f41de6b2.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/logo.5d5d9eef.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-code/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-code/config/env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-code/config/jest/cssTransform.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-code/config/jest/fileTransform.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-code/config/paths.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-code/config/polyfills.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-code/config/webpack.config.dev.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-code/config/webpack.config.prod.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-code/config/webpackDevServer.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-code/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-code/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-code/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-code/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-code/scripts/build.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-code/scripts/start.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-code/scripts/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-code/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-code/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-code/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-code/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-code/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-code/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-code/src/registerServiceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source-code/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-source-code/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-source-code/config/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -70,13 +34,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vue-source-code/config/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="50" column="40" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
+            <state relative-caret-position="276">
+              <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vue-source-code/dist/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
@@ -155,26 +138,7 @@
               <item name="Dragonet-D.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="Dragonet-D.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="vue-source-code" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Dragonet-D.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Dragonet-D.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="vue-source-code" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Dragonet-D.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Dragonet-D.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="vue-source-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Dragonet-D.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Dragonet-D.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="vue-source-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="router" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -217,12 +181,12 @@
       <workItem from="1527995315324" duration="158000" />
       <workItem from="1527995496452" duration="621000" />
       <workItem from="1528005214780" duration="188000" />
-      <workItem from="1528005470100" duration="216000" />
+      <workItem from="1528005470100" duration="529000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1656000" />
+    <option name="totallyTimeSpent" value="1969000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="0" width="1936" height="1056" extended-state="0" />
@@ -283,13 +247,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source-code/config/paths.js" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source-code/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -343,12 +300,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vue-source-code/config/index.js">
+    <entry file="file://$PROJECT_DIR$/vue-source-code/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="50" column="40" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
+        <state relative-caret-position="399">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue-source-code/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue-source-code/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
