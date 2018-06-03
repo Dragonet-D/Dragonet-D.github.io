@@ -1,17 +1,22 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <header-nav/>
     <router-view/>
   </div>
 </template>
 
-<script>
+<script type="text/ecmascript-6">
+import HeaderNav from 'components/HeaderNav/HeaderNav'
+
 export default {
-  name: 'App'
+  name: 'App',
+  components: {
+    HeaderNav
+  }
 }
 </script>
 
-<style>
+<style lang="scss">
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
