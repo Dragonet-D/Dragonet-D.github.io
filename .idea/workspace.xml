@@ -2,463 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a430e90-238a-4c56-8e8b-1abb229c686c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Universe/Universe.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Universe/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/1.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/10.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/11.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/12.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/13.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/14.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/15a.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/16.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/17.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/18.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/19.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/2.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/20.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/21.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/23.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/24.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/24a.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/3.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/31.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/32.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/33.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/34.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/35.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/36.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/37.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/39.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/4.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/40.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/40a.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/43.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/44.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/45.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/46.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/47.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/48.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/49.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/5.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/50.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/51.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/52.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/53.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/54.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/55.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/56.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/58.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/59.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/59a.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/6.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/61.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/62.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/64.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/65.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/68.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/68a.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/69.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/7.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/70.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/71.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/72.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/73.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/74.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/75.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/77.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/77a.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/78.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/78b.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/79.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/8.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/80.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/80good.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/81.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/MonkeyBusiness/9.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/apiUrl/url.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/count-images/count-num1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/count-images/count-num10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/count-images/count-num2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/count-images/count-num3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/count-images/count-num4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/count-images/count-num5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/count-images/count-num6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/count-images/count-num7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/count-images/count-num8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/count-images/count-num9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/app.e77538974125ee92c70d7f7a41ec82be.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/app.e77538974125ee92c70d7f7a41ec82be.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fonts/element-icons.6f0a763.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/goodjob/goodjob.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/goodjob/goodjob.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/goodjob/goodjob29.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/goodjob/next-btn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/1.c7120ce.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/bonus.9d7b399.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/goodjob.0fcc488.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/goodjob29.2a573d2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/goodjob41.0fcc488.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/goodjob52.4f03afa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/goodjob58.4f03afa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/guide-hand-four.171f667.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/guide-hand-three.66deaae.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/guide-hand-two.e6201d9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/guide-hand.2e87059.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/guide-hand.bf8f2a4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/guide-hand.ea745c5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/guide.39b63c1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/instructions.2fbc464.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/more1-1.16cca6c.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/more1-2.00d9dbc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/more2-1.c14be9b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/more2-2.d28994b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/more3-1.c341916.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/more3-2.e442791.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/more4-1.0a0acb8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/more4-2.aa0b085.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/more5-1.0897c55.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/more5-2.4326fa3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/more6-1.8f9e1ae.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/more6-2.a8e388f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/next-btn.9fad402.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page11.64f169c.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page13.89c87ab.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page14.9ed68d5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page15.934d44e.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page16.c2af78d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page17.3fe1c0e.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page18.debaf41.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page19.a1ea881.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page2.a0fb41a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page20.638ab3f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page21.5bd639e.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page22.184cc4a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page23.60666d3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page24.35b8ac1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page25.abb773e.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page26.9b9de3f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page27.198523c.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page28.9c8e67b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page29-1.9d28464.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page29-2.afa9254.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page29.4b16d52.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page3.f327b79.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page33.c920960.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page34.20c725e.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page35.3b613f3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page36.84500f3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page37.bcf7f51.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page38.ef2e563.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page39.8c4a4e9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page4.1995014.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page40.aa8fbb0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page41.96feecb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page43-1.fd1eb86.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page43-2.29bc196.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page44-1.7a3f22f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page44-2.182b67f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page44.ad6fcd3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page45-1.d36186f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page45-2.5984590.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page45.758cdd1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page46-1.26ed7af.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page46-2.905a076.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page46.a768889.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page47-1.f7c7602.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page47-2.28a7e0a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page47.8a8955f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page48-1.4821842.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page48-2.52019d1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page48.399fe38.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page49-1.0514b23.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page49-2.784dd2b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page49.2af9878.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page5.e918fe3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page50.c9c08f4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page51.8413dd8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page52.51ee202.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page55.e1b09d9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page56.aa02607.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page57.e2966a3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page58.9e7d76a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page6.c5a920a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page61.f555f8c.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page62.20cbaeb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page63.519445f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page64.80f37d9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page65.8bd524e.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page66.203f8df.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page67.e177fc2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page68.4f8b3c6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page69.2f10bf7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page7.f4349b9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page72.6f8496e.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page73.1349e53.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page74.7767588.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page75.3bb922a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page76.98eeba9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page77.a4be415.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page78.9ae5127.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page79.2090f4e.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/page79.46b409f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/retry.5b87dcc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/stage-monkey.f8c8911.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/stage1-2.88084e3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/stage2-2.82e3392.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/stage3-2.a48fb2b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/stage4-2.ae96432.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/stage5-2.df46d7e.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/stage6-2.7e4ec6b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/start-btn-large.1ddb8d1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/start-btn-medium.1ddb8d1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/app.4a0f90bccc6b715a82be.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/app.4a0f90bccc6b715a82be.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/manifest.2ae2e69a05c33dfc65f8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/vendor.d2c70a92afe98339ad08.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/vendor.d2c70a92afe98339ad08.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/match-numbers/guide-four.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/match-numbers/guide-one.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/match-numbers/guide-three.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/match-numbers/guide-two.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/match-numbers/page42-answer1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/match-numbers/page42-answer2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/match-numbers/page42-answer3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/match-numbers/page55-nine.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/match-numbers/page55-six.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/match-numbers/page55-ten.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/match-numbers/page55-three.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page10/next-btn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page10/page10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page11/page11-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page11/page11-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page11/page11-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page11/page11-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page11/page11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page11/page11.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page11/page111.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page13/page13-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page13/page13-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page13/page13-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page13/page13-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page13/page13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page14/page14-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page14/page14-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page14/page14-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page14/page14-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page14/page14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page15/page15-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page15/page15-11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page15/page15-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page15/page15-22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page15/page15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page16/page16-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page16/page16-11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page16/page16-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page16/page16-22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page16/page16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page17/page17-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page17/page17-11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page17/page17-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page17/page17-22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page17/page17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page18/page18-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page18/page18-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page18/page18-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page18/page18-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page18/page18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page19/page19-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page19/page19-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page19/page19-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page19/page19-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page19/page19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page20/page20-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page20/page20-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page20/page20-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page20/page20-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page20/page20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page21/page21-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page21/page21-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page21/page21-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page21/page21-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page21/page21.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page22/page22-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page22/page22-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page22/page22-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page22/page22-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page22/page22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page23/page23-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page23/page23-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page23/page23-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page23/page23-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page23/page23.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page24/page24-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page24/page24-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page24/page24-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page24/page24-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page24/page24.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page25/page25-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page25/page25-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page25/page25-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page25/page25-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page25/page25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page26/page26-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page26/page26-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page26/page26-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page26/page26-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page26/page26.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page27/page27.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page28/page28.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page28/start-btn-medium.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page29/page29.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page30/page30.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page31/page31-1-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page31/page31-1-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page31/page31-1-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page31/page31-1-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page31/page31-1-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page31/page31-1-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page31/page31-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page31/page31-guide.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page31/page31-hand.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page31/page31.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page32/next-btn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page32/page32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page33/page33.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page34/page34.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page35/page35.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page36/page36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page37/page37.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page38/page38.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page39/page39.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page40/page40.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page40/start-btn-medium.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page52/page52-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page52/page52-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page52/page52-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page52/page52-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page69/page69-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page69/page69-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page69/page69-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page69/page69-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page7/page7-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page7/page7-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page7/page7-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page7/page7-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page70/page70-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page70/page70-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page70/page70-7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page70/page70-8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page70/page70.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page72/page72-eight.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page72/page72-nine.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page72/page72-six.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page72/page72-two.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page73/page73-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page73/page73-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page73/page73-7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page73/page73-8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page74/page74-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page74/page74-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page74/page74-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page74/page74-8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page75/page75-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page75/page75-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page75/page75-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page75/page75-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page76/page76-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page76/page76-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page76/page76-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page76/page76-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page77/page77-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page77/page77-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page77/page77-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page77/page77-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page79/page79-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page79/page79-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page79/page79-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page79/page79-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page79/page79-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page79/page79-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page79/page79-7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page79/page79-8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page79/page79-9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page79/page79.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page79/page79.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page9/hand-guid.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page9/hand.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page9/page9-1-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page9/page9-1-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page9/page9-1-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page9/page9-1-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page9/page9-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page9/page9-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page9/page9-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page9/page9-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page9/page9-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page9/page9-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page9/page9-7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page9/page9-guide.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page9/page9-monkey.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page9/page9-remind.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/page9/page9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/.babelrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/.eslintignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/.eslintrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/.idea/jsLinters/eslint.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/.idea/markdown-navigator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/.idea/markdown-navigator/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/.idea/vue-source-code.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/.postcssrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/build/build.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/build/check-versions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/build/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/build/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/build/vue-loader.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/build/webpack.base.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/build/webpack.dev.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/build/webpack.prod.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/config/dev.env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/config/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/config/prod.env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/src/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/src/components/HeaderNav/HeaderNav.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/src/components/HelloWorld.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/src/components/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/src/router/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/static/css/app.cca059254702f9ed953b7df749673cf4.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/static/css/app.cca059254702f9ed953b7df749673cf4.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/static/js/app.089b748b1ac3cec20960.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/static/js/app.089b748b1ac3cec20960.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/static/js/manifest.2ae2e69a05c33dfc65f8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/static/js/vendor.9f523dca3627bad5a92e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-source-code/static/js/vendor.9f523dca3627bad5a92e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -472,15 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/postcss.config.js">
           <provider selected="true" editor-type-id="text-editor" />
@@ -542,14 +77,28 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/store.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            <state relative-caret-position="225">
+              <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="17" selection-start-column="17" selection-end-column="17" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -574,6 +123,7 @@
         <option value="$PROJECT_DIR$/src/components/Universe/style.scss" />
         <option value="$PROJECT_DIR$/src/components/Universe/Universe.vue" />
         <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -645,15 +195,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555596229085</updated>
-      <workItem from="1555596230241" duration="3368000" />
+      <workItem from="1555596230241" duration="3610000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3368000" />
+    <option name="totallyTimeSpent" value="3610000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="DB Browser" />
       <window_info id="Favorites" side_tool="true" />
@@ -777,11 +328,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/store.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        <state relative-caret-position="225">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="17" selection-start-column="17" selection-end-column="17" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>
